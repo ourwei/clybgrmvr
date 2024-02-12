@@ -29,7 +29,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PUT STATUS 1","PUT STATUS 2","PUT STATUS 3"];
+const statusMessages = [".gg/louvaesuai","PUT STATUS 2","PUT STATUS 3"];
 
 
 let currentIndex = 0;
